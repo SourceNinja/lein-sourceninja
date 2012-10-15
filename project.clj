@@ -1,4 +1,4 @@
-(defproject lein-sourceninja "0.1.0"
+(defproject lein-sourceninja "0.0.1"
   :description "A Leiningen plugin for SourceNinja."
   :url "https://github.com/SourceNinja/lein-sourceninja"
   :license {:name "AGPL"
